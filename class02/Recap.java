@@ -10,7 +10,7 @@ public class Recap {
         System.setProperty("webdriver.chrome.driver", "Drivers/chromedriver.exe"); //use .exe for Windows' users
 
         WebDriver driver = new ChromeDriver();
-        driver.get("http:facebook.com");
+        driver.get("http://www.facebook.com");
         //driver.manage().window().maximize();
         String title = driver.getTitle();
         String expectedTitle = "Facebook - Log In or Sign Up";
