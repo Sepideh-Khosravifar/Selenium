@@ -13,7 +13,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
          */
 
 
-        public static String url = "http://www.uitestpractice.com/Students/Switchto";
+        public static String url = "http://www.uitestprarightctice.com/Students/Switchto";
 
         public static void main(String[] args) throws InterruptedException {
 
